@@ -35,9 +35,7 @@ This project demonstrates advanced problem-solving skills, clean code architectu
 - pip (Python package manager)
 - Modern web browser (Chrome, Firefox, Safari, or Edge)
 
-## ⚡ Quick Start
-
-### 1. Clone and Setup
+## ⚡ Clone and Setup
 ```bash
 # Clone the repository
 git clone <repository-url>
@@ -49,10 +47,10 @@ pip install django==4.2.7
 # Setup database
 python manage.py migrate
 
-### 2. Run the Aplication
+# Run the Aplication
 python manage.py runserver 8000
 
-### 3. Access the Aplication
+# Access the Aplication
 http://localhost:8000
 
 Algorithm Explanation
